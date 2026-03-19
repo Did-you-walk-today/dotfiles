@@ -45,8 +45,8 @@ echo "[dotfiles] .gitignore 설정 완료 ✅"
 # 4. git 기본 설정
 # ────────────────────────────────────────
 # 아래 주석 해제 후 본인 정보로 수정
-# git config --global user.name "기웅"
-# git config --global user.email "your@email.com"
+git config --global user.name "Did-you-walk-today"
+git config --global user.email "wjdrldnd10@gmail.com"
 git config --global init.defaultBranch main
 git config --global pull.rebase false
 
