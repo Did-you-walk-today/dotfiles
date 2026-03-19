@@ -1,6 +1,6 @@
 #!/bin/bash
 # GitHub Codespaces dotfiles 자동 설치 스크립트
-# 어느 레포에서 Codespace를 열든 자동으로 실행됨
+# 어느 레포에서 Codespace를 열든 자동으로 실행됨 
 
 set -e
 
